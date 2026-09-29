@@ -1,8 +1,3 @@
-# SIMII-DARE-Iată codul actualizat! Am adăugat titlul amuzant „Bună dragă Simina, cum dorești să ne facem date-ul pe sărăcie :)” și am păstrat tot fluxul interactiv (butonul care fuge, întrebările despre bancă, suc, flori/jeleuri și bârfă, plus rezumatul final):
-Cum îl pui rapid online:
- * Intri pe codepen.io/pen.
- * Ștergi tot ce este în caseta HTML (stânga sus) și lipsești codul de mai jos.
- * Îți va apărea exact site-ul pregătit pentru ea!
 <!DOCTYPE html>
 <html lang="ro">
 <head>
@@ -128,4 +123,3 @@ Cum îl pui rapid online:
   </script>
 </body>
 </html>
-
